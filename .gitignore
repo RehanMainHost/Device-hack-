@@ -1,0 +1,14 @@
+config.py
+config.py.bak*
+*.session
+*.session-journal
+data/
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.bak.*
+REHAN_CODEX_*.zip
